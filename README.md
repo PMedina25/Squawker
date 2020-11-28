@@ -1,2 +1,2 @@
 # Squawker
-Squawker App for Firebase Cloud Messaging
+Android Squawker App for Firebase Cloud Messaging
